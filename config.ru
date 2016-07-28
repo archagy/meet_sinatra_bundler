@@ -1,5 +1,5 @@
 require 'rubygems'
 require "bundler"
 Bundler.require
-require './simple.rb'
-run  Simple
+require './adserve.rb'
+run  Adserver
